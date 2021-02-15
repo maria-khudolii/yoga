@@ -1,1 +1,1 @@
-# yoga
+Study project
